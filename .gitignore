@@ -1,0 +1,31 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Sonarlint plugin working directory
+.sonarlint/
+
+# IntelliJ crash logs
+hs_err_pid*
+
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+### Gradle ###
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Logs ###
+*.log
+
+### OS files ###
+.DS_Store
+Thumbs.db
+
+### Other ###
+/out/
